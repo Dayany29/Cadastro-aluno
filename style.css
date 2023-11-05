@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body {
+    font-family: Arial;
+    background-color: #ecebeb;
+
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    margin-top:10px ;
+}
+#logo {
+    position: absolute;
+    left: 40px;
+    top: 10px;
+}
+#logo img {
+    border-radius: 25%;
+    width: 100px;
+}
+#logo2 {
+    font-size: 25px;
+    background:linear-gradient(to right,#EEC400, #FFD820, #FFF139);
+    padding: 0;
+    text-align: center;
+    
+    
+}
+#logo2 img{
+    width: 245px;
+    border-radius: 25%;
+    float: top;
+
+}
+input{
+    text-align: left;
+    margin-top: 5px;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 10px;
+    background:linear-gradient(to right,#EEC400, #FFD820, #FFF139);
+}
+    
+#corpo{
+    margin-left:380px;
+    margin-right:380px;
+    text-align: center;
+    border-radius: 2px solid black;
+}
+
